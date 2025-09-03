@@ -1,0 +1,49 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define FOR(i, a, b) for(int i = a; i <= b; i++)
+#define FOL(i, a, b) for(int i = a; i >= b; i--)
+#define FOE(it, a) for(int& it : a)
+
+int pos = 1;
+
+class SinhVien
+{
+	private:
+		string msv, name, lop, date;
+		double gpa;
+	public:
+		friend istream& operator >>(istream& in, SinhVien &x)
+		{
+			x.msv = "B20DCCN";
+			string temp = to_string(pos++);
+			while(temp.size() < 3)	temp = "0" + temp;
+			x.msv += temp;
+			cin.ignore();
+			getline(in, x.name);
+			in >> x.lop >> x.date >> x.gpa;
+			if(x.date[1] == '/') x.date = "0" + x.date;
+			if(x.date[4] == '/') x.date.insert(3, "0");
+			return in;
+		}
+		friend ostream& operator <<(ostream& out, SinhVien x)
+		{
+			out << x.msv << " " << x.name << " " << x.lop << " " << x.date << " " << fixed << setprecision(2) << x.gpa << "\n";
+			return out;
+		}
+};
+
+int main(){
+    SinhVien ds[50];
+    int N, i;
+    cin >> N;
+    for(i=0;i<N;i++){
+        cin >> ds[i];
+    }
+    for(i=0;i<N;i++){
+        cout << ds[i];
+    }
+    return 0;
+}
+
+// Mã SV, Họ tên, Lớp và Điểm GPA (dạng số thực float)
