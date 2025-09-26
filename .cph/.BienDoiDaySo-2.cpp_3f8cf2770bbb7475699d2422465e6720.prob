@@ -1,0 +1,1 @@
+{"name":"Local: BienDoiDaySo-2","url":"f:\\Code\\CF-CPT\\C++\\BienDoiDaySo-2.cpp","tests":[{"id":1755798140092,"input":"2\n5\n2 3 4 5 6\n6\n9 7 12 8 6 5","output":"6 8 15 24 30\n63 108 56 72 40 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\BienDoiDaySo-2.cpp","group":"local","local":true}

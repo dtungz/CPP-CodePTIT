@@ -1,0 +1,1 @@
+{"name":"Local: KhoangCachBangX","url":"f:\\Code\\CF-CPT\\C++\\KhoangCachBangX.cpp","tests":[{"id":1755798685538,"input":"1\n5 6\n1 4 10 20 25","output":"1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\KhoangCachBangX.cpp","group":"local","local":true}

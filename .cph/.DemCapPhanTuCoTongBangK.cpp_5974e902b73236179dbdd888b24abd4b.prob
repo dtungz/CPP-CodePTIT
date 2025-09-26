@@ -1,0 +1,1 @@
+{"name":"Local: DemCapPhanTuCoTongBangK","url":"f:\\Code\\CF-CPT\\C++\\DemCapPhanTuCoTongBangK.cpp","tests":[{"id":1755000434946,"input":"2\n5 0 \n1 5 4 1 2\n3 2\n\n1 1 1","output":"0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\DemCapPhanTuCoTongBangK.cpp","group":"local","local":true}

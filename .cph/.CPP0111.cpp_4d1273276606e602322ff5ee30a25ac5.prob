@@ -1,0 +1,1 @@
+{"name":"Local: CPP0111","url":"f:\\Code\\CF-CPT\\C++\\CPP0111.cpp","tests":[{"id":1754847393167,"input":"3\n\n123212\n\n5654345676\n\n10233211123","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\CPP0111.cpp","group":"local","local":true}

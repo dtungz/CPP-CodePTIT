@@ -1,0 +1,1 @@
+{"name":"Local: UocSoCuaGiaiThua","url":"f:\\Code\\CF-CPT\\C++\\UocSoCuaGiaiThua.cpp","tests":[{"id":1756275349024,"input":"3\n62  7\n76  2\n3  5","output":"9\n73\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\UocSoCuaGiaiThua.cpp","group":"local","local":true}

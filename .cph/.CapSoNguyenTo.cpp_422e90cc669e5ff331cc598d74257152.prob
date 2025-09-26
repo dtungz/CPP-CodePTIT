@@ -1,0 +1,1 @@
+{"name":"Local: CapSoNguyenTo","url":"f:\\Code\\CF-CPT\\C++\\CapSoNguyenTo.cpp","tests":[{"id":1754905664295,"input":"2\n74\n1024","output":"3 71\n3 1021"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\CapSoNguyenTo.cpp","group":"local","local":true}

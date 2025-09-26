@@ -1,0 +1,1 @@
+{"name":"Local: TinhGiaTriDaThuc","url":"f:\\Code\\CF-CPT\\C++\\TinhGiaTriDaThuc.cpp","tests":[{"id":1755232960687,"input":"1\n4  2\n\n1  2  0  4","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\TinhGiaTriDaThuc.cpp","group":"local","local":true}

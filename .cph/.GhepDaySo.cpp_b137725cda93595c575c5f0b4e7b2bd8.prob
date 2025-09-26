@@ -1,0 +1,1 @@
+{"name":"Local: GhepDaySo","url":"f:\\Code\\CF-CPT\\C++\\GhepDaySo.cpp","tests":[{"id":1755008395122,"input":"1\n3 4\n\n1 3 5 7\n\n2 4 6 8\n\n0 9 10 11","output":"0 1 2 3 4 5 6 7 8 9 10 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\GhepDaySo.cpp","group":"local","local":true}

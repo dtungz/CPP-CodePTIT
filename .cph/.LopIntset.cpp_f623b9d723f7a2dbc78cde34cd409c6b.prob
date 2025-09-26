@@ -1,0 +1,1 @@
+{"name":"Local: LopIntset","url":"f:\\Code\\CF-CPT\\C++\\LopIntset.cpp","tests":[{"id":1756264729308,"input":"5 6\n\n1 2 3 4 5\n\n3 4 5 6 7 8","output":"3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\LopIntset.cpp","group":"local","local":true}
