@@ -1,0 +1,1 @@
+{"name":"Local: PhanTuNhoNhatThuK","url":"f:\\Code\\CF-CPT\\C++\\PhanTuNhoNhatThuK.cpp","tests":[{"id":1754962474207,"input":"2\n\n6  3\n\n7  10  4  3  20  15\n\n6  4\n9  7  12  8  6  5","output":"7\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\PhanTuNhoNhatThuK.cpp","group":"local","local":true}

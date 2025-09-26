@@ -1,0 +1,1 @@
+{"name":"Local: UocSoNguyenToNhoHonN","url":"f:\\Code\\CF-CPT\\C++\\UocSoNguyenToNhoHonN.cpp","tests":[{"id":1754904523534,"input":"2\n\n10\n\n35","output":"2 3 5 7\n2 3 5 7 11 13 17 19 23 29 31"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\UocSoNguyenToNhoHonN.cpp","group":"local","local":true}

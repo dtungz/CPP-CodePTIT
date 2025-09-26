@@ -1,0 +1,1 @@
+{"name":"Local: TimKiemTrongDaySapXepVong","url":"f:\\Code\\CF-CPT\\C++\\TimKiemTrongDaySapXepVong.cpp","tests":[{"id":1755080669361,"input":"2\n10 3\n5 6 7 8 9 10 1 2 3 4\n10 3\n1 2 3 4 5 6 7 8 9 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\TimKiemTrongDaySapXepVong.cpp","group":"local","local":true}

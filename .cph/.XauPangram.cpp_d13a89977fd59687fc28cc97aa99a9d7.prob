@@ -1,0 +1,1 @@
+{"name":"Local: XauPangram","url":"f:\\Code\\CF-CPT\\C++\\XauPangram.cpp","tests":[{"id":1754979656251,"input":"2\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n4\nqwqqwqeqqwdsdadsdasadsfsdsdsdasasas\n24","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\XauPangram.cpp","group":"local","local":true}

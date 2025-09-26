@@ -1,0 +1,1 @@
+{"name":"Local: LietKeXauNhiPhan","url":"f:\\Code\\CF-CPT\\C++\\LietKeXauNhiPhan.cpp","tests":[{"id":1755112271646,"input":"2\n2\n3","output":"00 01 10 11\n000 001 010 011 100 101 110 111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\LietKeXauNhiPhan.cpp","group":"local","local":true}

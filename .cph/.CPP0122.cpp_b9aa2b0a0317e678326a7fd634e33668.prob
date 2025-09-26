@@ -1,0 +1,1 @@
+{"name":"Local: CPP0122","url":"f:\\Code\\CF-CPT\\C++\\CPP0122.cpp","tests":[{"id":1754848621391,"input":"2\n\n3\n\n5","output":"6\n60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\CPP0122.cpp","group":"local","local":true}

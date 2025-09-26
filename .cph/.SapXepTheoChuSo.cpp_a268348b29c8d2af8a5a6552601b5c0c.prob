@@ -1,0 +1,1 @@
+{"name":"Local: SapXepTheoChuSo","url":"f:\\Code\\CF-CPT\\C++\\SapXepTheoChuSo.cpp","tests":[{"id":1755797865583,"input":"2\n\n4\n\n54  546  548  60\n\n8\n1  34  3  98  9  76  45  4","output":"6054854654\n998764543431"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\SapXepTheoChuSo.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: TimKiemTuanTu","url":"f:\\Code\\CF-CPT\\C++\\TimKiemTuanTu.cpp","tests":[{"id":1755080575908,"input":"2 \n5  16\n9  7  2  16  4\n7  98\n1  22  57  47  34  18  66","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\TimKiemTuanTu.cpp","group":"local","local":true}

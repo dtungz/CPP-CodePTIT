@@ -1,0 +1,1 @@
+{"name":"Local: ThongKePhanTu","url":"f:\\Code\\CF-CPT\\C++\\ThongKePhanTu.cpp","tests":[{"id":1756267508095,"input":"5  5  3  4  3   2  5","output":"5 3\n3 2\n4 1\n2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\ThongKePhanTu.cpp","group":"local","local":true}

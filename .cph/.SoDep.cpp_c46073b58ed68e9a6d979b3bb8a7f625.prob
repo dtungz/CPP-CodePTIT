@@ -1,0 +1,1 @@
+{"name":"Local: SoDep","url":"f:\\Code\\CF-CPT\\C++\\SoDep.cpp","tests":[{"id":1754981383099,"input":"4\n\n123456787654321\n\n86442824468\n\n8006000444422220000222244440006008\n\n235365789787654324567856578654356786556","output":"NO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\SoDep.cpp","group":"local","local":true}

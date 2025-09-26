@@ -1,0 +1,1 @@
+{"name":"Local: HoanViLienKePhiaTruoc","url":"f:\\Code\\CF-CPT\\C++\\HoanViLienKePhiaTruoc.cpp","tests":[{"id":1755136481258,"input":"2\n\n5 \n\n1  2  3  5  4\n\n5\n\n5  4  3  2  1","output":"1 2 3 4 5\n5 4 3 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\HoanViLienKePhiaTruoc.cpp","group":"local","local":true}
