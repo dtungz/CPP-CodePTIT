@@ -1,0 +1,1 @@
+{"name":"Local: SoGanDoiXung","url":"f:\\Code\\CF-CPT\\C++\\SoGanDoiXung.cpp","tests":[{"id":1758077798941,"input":"3\n1 10\n1 1000\n10000 50000","output":"10\n1000\n7601"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\SoGanDoiXung.cpp","group":"local","local":true}

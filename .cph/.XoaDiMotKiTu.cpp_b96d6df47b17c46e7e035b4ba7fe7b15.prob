@@ -1,0 +1,1 @@
+{"name":"Local: XoaDiMotKiTu","url":"f:\\Code\\CF-CPT\\C++\\XoaDiMotKiTu.cpp","tests":[{"id":1758078784171,"input":"7\nabbbcca","output":"4"},{"id":1758078794522,"input":"4\naaaa","output":"6"},{"id":1758078805325,"input":"2\nab","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code\\CF-CPT\\C++\\XoaDiMotKiTu.cpp","group":"local","local":true}
